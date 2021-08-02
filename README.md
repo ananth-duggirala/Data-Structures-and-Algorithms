@@ -1,3 +1,3 @@
 # Data Structures and Algorithms
 
-A repository covering questions involving data structures in algorithms, sorted by topic.
+A repository containing questions involving data structures in algorithms, sorted by topic.
